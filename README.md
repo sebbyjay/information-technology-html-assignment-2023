@@ -1,8 +1,8 @@
-# information-technology-html-assignment-2023
+# information-technology-html-webpage
 Webpage for hypothetical InfoSysAnalysis Company holding a meeting on LaTrobe grounds
 
 Author: Sebastien Dundas  
-Project: Information Technology HTML Assignment  
+Project: Information Technology HTML Webpage
 Date: Semester 1, 2023  
 
 IMPORTANT DISCLAIMER: This repository contains coursework completed as part of my university studies.
