@@ -2,9 +2,7 @@
 Webpage for hypothetical InfoSysAnalysis Company holding a meeting on LaTrobe grounds
 
 Author: Sebastien Dundas
-
 Project: Information Technology HTML Assignment
-
 Date: Semester 1, 2023
 
 IMPORTANT DISCLAIMER: This repository contains coursework completed as part of my university studies.
