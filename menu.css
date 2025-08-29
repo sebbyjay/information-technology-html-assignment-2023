@@ -1,0 +1,44 @@
+.header{
+    margin: 0px;
+    padding: 0px 80px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #222;
+}
+.header h2{
+    margin: 0px;
+    padding: 20px 0px 0px 0px;
+}
+.menu{
+    margin: 0px;
+    padding: 0px;
+}
+.menu ul{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    text-align: left;
+    list-style: none;
+}
+.menu li{
+    margin: 0px;
+    padding: 25px 10px;
+}
+#home{
+    background-color: #1d2d1d;
+}
+#home:hover{
+    background-color: #232
+}
+.menu a{
+    margin: 0px;
+    padding: 25px 30px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #ddd;
+}
+.menu a:hover{
+    color: lightgreen;
+    background-color: #232;
+    transition: 0.3s;
+}

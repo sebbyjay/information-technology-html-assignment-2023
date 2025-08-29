@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Lato", Arial;
+    background-color: #111;
+    color: #ddd;
+}
+.page{
+    padding: 0px;
+}
+.section1{
+    
+    padding: 20px 80px;
+    display: flex;
+    justify-content: center;
+    background-color: #111;
+}
+.section1 img{
+    width: 15%;
+    border-radius: 8px;
+}
+#s1text{
+    
+    padding: 0px 30px;
+    width: 40vw;
+    display:block;
+    text-align: center;
+}
+#s1text2{
+    padding: 0px 30px;
+    width: 40vw;
+    display:block;
+    text-align: left;
+}
+#art1{
+    width: 500px;
+    height: auto;
+}
+.section2{
+    box-shadow: 0px 0px 15px black;
+    margin: 0px 50px 100px 50px;
+    padding: 20px 20px 20px 120px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #232;
+    border-radius: 15px;
+}
+
+
+#s2text{
+    padding: 0px 10px;
+    width: 50vw;
+    min-height: 20vh;
+    text-align: left;
+}
+.section2 ul{
+    list-style:'>  ';
+}
+#index{
+    padding: 20px 120px 20px 120px;
+    margin: 0px;
+    border-radius: 0px;
+}
+#founders{
+    text-align: center;
+}
+#location{
+    background-color: #2a2221;
+}
+#facilities{
+    background-color: #224;
+}
+#travel{
+    margin: 0px;
+    padding: 20px 60px 20px 120px;
+    border-radius: 0px;
+    background-color: #611;
+}
+table{
+    border-collapse: collapse;
+    height: 180px;
+}
+
+tr, th, td{
+    text-align: left;
+    border-bottom: 1px solid grey;
+    padding: 1px 20px 1px 8px;
+}
+th{
+    padding: 1px 20px 4px 8px;
+}
+#map1{
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+}
+#gardens{
+    margin: 10px 0px;
+    border-radius: 15px;
+    width: 400px;
+    height: auto;
+}
+#gym1{
+    height: 400px;
+    width: auto;
+}
+#vending{
+    height: 400px;
+    width: auto;
+    border-radius: 8px;
+}
+#eagle{
+    padding: 0px 40px;
+    text-align: right;
+}
+#caption{
+    margin: 5px 0px;
+    font-size:13px;
+    color: #aaa;
+}
+.time{
+    text-align: right;
+}
+#exit{
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
+#map2{
+    margin: 0px 0px 0px 20px;
+    padding: 0px;
+    width: 480px;
+    height: auto;
+    border-radius: 8px;
+}
